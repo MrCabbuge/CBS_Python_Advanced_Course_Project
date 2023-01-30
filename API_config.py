@@ -1,0 +1,2 @@
+ow_token = '6db40869be259b3efde3a90f9ae79e3b'
+tg_token = "6043355057:AAHiGKiS1PSJ6YQQLN5kQLlZ_cMiXBrPL0c"
